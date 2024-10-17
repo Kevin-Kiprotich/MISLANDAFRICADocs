@@ -19,7 +19,7 @@
     <script src="../../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Land Cover" href="landCover.html" />
+    <link rel="next" title="Land Cover and Land Cover Change" href="landCover.html" />
     <link rel="prev" title="Calculate SDG 15.3.1" href="../SDG15.3.1.html" /> 
 </head>
 
@@ -44,9 +44,10 @@
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
               <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../../qgisPlugin.html">QGIS Plugin</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../registration.html">Registration and Settings</a></li>
 <li class="toctree-l2 current"><a class="reference internal" href="../SDG15.3.1.html">Calculate SDG 15.3.1</a><ul class="current">
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Land Productivity</a></li>
-<li class="toctree-l3"><a class="reference internal" href="landCover.html">Land Cover</a></li>
+<li class="toctree-l3"><a class="reference internal" href="landCover.html">Land Cover and Land Cover Change</a></li>
 <li class="toctree-l3"><a class="reference internal" href="carbonStock.html">Carbon Stock</a></li>
 <li class="toctree-l3"><a class="reference internal" href="SDGIndicator.html">SDG 15.3.1</a></li>
 </ul>
@@ -89,6 +90,52 @@
              
   <section id="land-productivity">
 <h1>Land Productivity<a class="headerlink" href="#land-productivity" title="Link to this heading"></a></h1>
+<p>Land productivity is computed from vegetation indices using three measures of change i.e trajectory, state and performace. Any of the
+three sub-indicators measures of change as well as the productivity can be combuted as illustrated below.</p>
+<p><strong>1.</strong> To start the land productivity analysis, click the <strong>calculate</strong> icon highlighted <a class="reference internal" href="../../_images/calculate.png"><img alt="calculate" src="../../_images/calculate.png" style="height: 32px;" /></a>. This will open the <code class="docutils literal notranslate"><span class="pre">calculate</span></code> dialog.</p>
+<figure class="align-center" id="id1">
+<img alt="Calculate Dialog with SDG button highlighted." src="../../_images/calculateSDG.png" />
+<figcaption>
+<p><span class="caption-text"><em>Figure 5: Calculate Dialog with Land Degradation button highlighted</em></span><a class="headerlink" href="#id1" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<p><strong>2.</strong> From here, click on the <code class="docutils literal notranslate"><span class="pre">Land</span> <span class="pre">Degradation</span> <span class="pre">Indicator</span></code> button highlighted in red. This will open the <code class="docutils literal notranslate"><span class="pre">SDG</span> <span class="pre">Dialog</span></code>.</p>
+<figure class="align-center" id="id2">
+<img alt="SDG Dialog" src="../../_images/SDGLandProductivity.png" />
+<figcaption>
+<p><span class="caption-text"><em>Figure 6: Land Degradation dialog</em></span><a class="headerlink" href="#id2" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<p><strong>3.</strong> On the dialog click the <code class="docutils literal notranslate"><span class="pre">Land</span> <span class="pre">Productivity</span></code> button highlighted in red to open the <code class="docutils literal notranslate"><span class="pre">Land</span> <span class="pre">Productivity</span> <span class="pre">Dialog</span></code>.</p>
+<figure class="align-center" id="id3">
+<img alt="Land Productivity dialog" src="../../_images/LandProductivity.png" />
+<figcaption>
+<p><span class="caption-text"><em>Figure 7: Land Productivity dialog</em></span><a class="headerlink" href="#id3" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<p><strong>4.</strong> Under the <code class="docutils literal notranslate"><span class="pre">Productivity</span> <span class="pre">Indicator</span></code> option on the pop-up menu, users can select either of the three land
+productivity sub-indicators i.e. State, performance, and trajectory or the final aggregated land productivity
+for their selected area of interest.</p>
+<figure class="align-center" id="id4">
+<img alt="Land Productivity Indicator" src="../../_images/landProductivityIndicator.png" />
+<figcaption>
+<p><span class="caption-text"><em>Figure 8: Land Productivity Indicator</em></span><a class="headerlink" href="#id4" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<div class="admonition-note admonition">
+<p class="admonition-title">Note</p>
+<p>MISLAND allows users to assess vegetation using high resolution Landsat derived vegetation indices.
+If the selection of the data is landsat the option to specify the vegetation index .i.e NDVI, MSAVI or SAVI
+will appear under the <code class="docutils literal notranslate"><span class="pre">Advanced</span> <span class="pre">Parameters</span></code> option.</p>
+</div>
+<p><strong>4.</strong> Once the selection of datasets and reporting period is complete click on the <code class="docutils literal notranslate"><span class="pre">Submit</span></code> button at the bottom
+of the dialog. The results should be displayed as shown below.</p>
+<figure class="align-center" id="id5">
+<img alt="Land Productivity result" src="../../_images/LandProductivityResult.png" />
+<figcaption>
+<p><span class="caption-text"><em>Figure 9: Land Productivity Result</em></span><a class="headerlink" href="#id5" title="Link to this image"></a></p>
+</figcaption>
+</figure>
 </section>
 
 
@@ -96,7 +143,7 @@
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
         <a href="../SDG15.3.1.html" class="btn btn-neutral float-left" title="Calculate SDG 15.3.1" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
-        <a href="landCover.html" class="btn btn-neutral float-right" title="Land Cover" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="landCover.html" class="btn btn-neutral float-right" title="Land Cover and Land Cover Change" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>
