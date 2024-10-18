@@ -10,10 +10,10 @@ three sub-indicators measures of change as well as the productivity can be combu
 **1.** To start the land productivity analysis, click the **calculate** icon highlighted |calculate|. This will open the ``calculate`` dialog.
 
 .. figure:: ../../_static/calculateSDG.png
-    :alt: Calculate Dialog with SDG button highlighted.
+    :alt: Calculate Dialog.
     :align: center
 
-    *Figure 5: Calculate Dialog with Land Degradation button highlighted*
+    *Figure 5: Calculate Dialog*
 
 **2.** From here, click on the ``Land Degradation Indicator`` button highlighted in red. This will open the ``SDG Dialog``.
 
@@ -47,6 +47,25 @@ for their selected area of interest.
     MISLAND allows users to assess vegetation using high resolution Landsat derived vegetation indices. 
     If the selection of the data is landsat the option to specify the vegetation index .i.e NDVI, MSAVI or SAVI 
     will appear under the ``Advanced Parameters`` option.
+
+
+.. important::
+
+    .. list-table:: Land Productivity Parameters
+        :width: 100%
+       :widths: 25 75
+       :header-rows: 1
+
+       * - Parameters
+         - Definition
+       * - Productivity Indicator
+         - The Productivity Indicator of choice
+       * - Data Source
+         - The data source of choice.
+       * - Vegetation Index
+         - Vegetation Index of choice
+       * - Reporting year
+         - Year of analysis
 
 **4.** Once the selection of datasets and reporting period is complete click on the ``Submit`` button at the bottom 
 of the dialog. The results should be displayed as shown below.
