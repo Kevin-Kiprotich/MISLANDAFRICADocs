@@ -5,7 +5,7 @@ Forest Carbon Emission
 .. |calculate| image:: ../../_static/calculate.png
    :height: 32px
 
-**1.** To start the carbon stock analysis, click the **calculate** icon highlighted |calculate|. This will open the ``calculate`` dialog.
+**1.** To start the forest carbon emission analysis, click the **calculate** icon highlighted |calculate|. This will open the ``calculate`` dialog.
 
 .. figure:: ../../_static/calculateForests.png
     :alt: Calculate Dialog.

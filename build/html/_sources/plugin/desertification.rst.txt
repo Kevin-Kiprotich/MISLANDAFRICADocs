@@ -5,9 +5,9 @@ Mediterranean Desertification and Land Use (MEDALUS)
 .. |calculate| image:: ../_static/calculate.png
    :height: 32px
 
-**1.** To start the land cover analysis, click the **calculate** icon highlighted |calculate|. This will open the **calculate** dialog.
+**1.** To start the MEDALUS Desetification analysis, click the **calculate** icon highlighted |calculate|. This will open the **calculate** dialog.
 
-.. figure:: ../_static/calculateVegetation.png
+.. figure:: ../_static/calculateMEDALUS.png
     :alt: Calculate Dialog
     :align: center
 

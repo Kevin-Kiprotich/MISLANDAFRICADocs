@@ -5,7 +5,7 @@ Vegetation Loss/Gain
 .. |calculate| image:: ../_static/calculate.png
    :height: 32px
 
-**1.** To start the land cover analysis, click the **calculate** icon highlighted |calculate|. This will open the **calculate** dialog.
+**1.** To start the vegetation degradation analysis, click the **calculate** icon highlighted |calculate|. This will open the **calculate** dialog.
 
 .. figure:: ../_static/calculateVegetation.png
     :alt: Calculate Dialog
