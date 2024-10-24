@@ -46,3 +46,9 @@ Carbon Stock
           - Year of analysis
 
 **4.** The result will be as shown below.
+
+.. figure:: ../../_static/results/QGIS/carbonStockResult.png
+    :alt: Carbon Stock Results
+    :align: center
+
+    *Figure 20: Carbon Stock Results*

@@ -54,3 +54,9 @@ Provide all the parameters as required in the dialog and click ``Submit``.
 
 
 **4.** The result should be as shown below.
+
+.. figure:: ../../_static/results/QGIS/forestCarbonResult.png
+    :alt: Forest Carbon Emission Results
+    :align: center
+
+    *Figure 35: Forest Carbon Emission Results*

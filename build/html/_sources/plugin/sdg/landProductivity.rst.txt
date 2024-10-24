@@ -70,7 +70,7 @@ for their selected area of interest.
 **4.** Once the selection of datasets and reporting period is complete click on the ``Submit`` button at the bottom 
 of the dialog. The results should be displayed as shown below.
 
-.. figure:: ../../_static/LandProductivityResult.png
+.. figure:: ../../_static/results/QGIS/LandProductivityResult.png
     :alt: Land Productivity result
     :align: center
 

@@ -37,3 +37,9 @@ Provide all parameters as required in the dialog and click ``Submit``.
           - Year of analysis
 
 **4.** The result will be as shown below.
+
+.. figure:: ../_static/results/QGIS/coastalErosionResult.png
+    :alt: Coastal Erosion Results
+    :align: center
+
+    *Figure 57: Coastal Erosion Results*

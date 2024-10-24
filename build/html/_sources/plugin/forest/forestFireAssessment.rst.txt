@@ -46,3 +46,9 @@ Provide all the parameters as required in the dialog and click ``Submit``.
 
 
 **4.** The result should be as shown below.
+
+.. figure:: ../../_static/results/QGIS/forestFireAssessmentResult.png
+    :alt: Forest Fire Assessment Results
+    :align: center
+
+    *Figure 43: Forest Fire Assessment Results*

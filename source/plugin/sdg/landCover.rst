@@ -60,6 +60,11 @@ Land Cover
 **5.** Provide all other parameters required in the 
 dialog and click ``Submit``. The results should be displayed as shown below.
 
+.. figure:: ../../_static/results/QGIS/landCoverResult.png
+    :alt: Land Cover Results
+    :align: center
+
+    *Figure 14: Land Cover Results*
 
 
 ----------------------
@@ -95,3 +100,10 @@ to provide a ``Start year`` and an ``end year``.
 
 **2.** Provide all other parameters required in the 
 dialog and click ``Submit``. The results should be displayed as shown below.
+
+.. figure:: ../../_static/results/QGIS/landCoverChangeResult.png
+    :alt: Land Cover Change Results
+    :align: center
+
+    *Figure 16: Land Cover Change Results*
+

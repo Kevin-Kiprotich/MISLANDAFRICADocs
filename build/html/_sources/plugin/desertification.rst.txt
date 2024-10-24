@@ -37,3 +37,9 @@ Provide all parameters as required in the dialog and click ``Submit``.
           - Year of analysis
 
 **4.** The result will be as shown below.
+
+.. figure:: ../_static/results/QGIS/MEDALUSResult.png
+    :alt: MEDALUS Results
+    :align: center
+
+    *Figure 46: MEDALUS Results*

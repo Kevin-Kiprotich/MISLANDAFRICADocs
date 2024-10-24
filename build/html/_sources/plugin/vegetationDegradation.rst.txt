@@ -48,3 +48,9 @@ Provide all parameters as required in the dialog and click ``Submit``.
           - Year of analysis
 
 **4.** The result will be as shown below.
+
+.. figure:: ../_static/results/QGIS/vegetationLossResult.png
+    :alt: Vegetation Loss/Gain Results
+    :align: center
+
+    *Figure 27: Vegetation Loss/Gain Results*

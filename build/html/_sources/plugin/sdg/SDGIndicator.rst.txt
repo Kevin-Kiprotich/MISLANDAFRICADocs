@@ -55,4 +55,10 @@ SDG 15.3.1
           - Year of analysis
 
 
-**4.** The result will be as show below.
+**4.** The result will be as shown below.
+
+.. figure:: ../../_static/results/QGIS/SDGIndicatorResult.png
+    :alt: SDG 15.3.1 Results
+    :align: center
+
+    *Figure 24: SDG 15.3.1 Results*

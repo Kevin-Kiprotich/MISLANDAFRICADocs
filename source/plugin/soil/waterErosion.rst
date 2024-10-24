@@ -46,3 +46,9 @@ Provide all the parameters as required in the dialog and click ``Submit``.
 
 
 **4.** The result should be as shown below.
+
+.. figure:: ../../_static/results/QGIS/waterErosionResult.png
+    :alt: Water Erosion Results
+    :align: center
+
+    *Figure 50: Water Erosion Results*

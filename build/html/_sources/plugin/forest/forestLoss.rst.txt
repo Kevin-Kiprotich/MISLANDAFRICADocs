@@ -46,3 +46,9 @@ Provide all the parameters as required in the dialog and click ``Submit``.
 
 
 **4.** The result should be as shown below.
+
+.. figure:: ../../_static/results/QGIS/forestLossResult.png
+    :alt: Forest Loss Results
+    :align: center
+
+    *Figure 31: Forest Loss Results*

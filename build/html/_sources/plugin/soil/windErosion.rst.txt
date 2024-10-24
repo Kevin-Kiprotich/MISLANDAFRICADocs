@@ -46,3 +46,9 @@ Provide all the parameters as required in the dialog and click ``Submit``.
 
 
 **4.** The result should be as shown below.
+
+.. figure:: ../../_static/results/QGIS/windErosionResult.png
+    :alt: Wind Erosion Results
+    :align: center
+
+    *Figure 54: Wind Erosion Results*
