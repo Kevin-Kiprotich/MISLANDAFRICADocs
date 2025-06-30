@@ -8,8 +8,9 @@ Mobile Application
 
     mobile/registration
     mobile/dashboard
-    mobile/vegetationLoss
-    mobile/forestLoss
-    mobile/forestCarbon
-    mobile/forestFireRisk
-    mobile/forestFireAssessment
+    mobile/sdg
+    mobile/vegetations
+    mobile/forests
+    mobile/desert
+    mobile/soilerosion
+    mobile/coastalerosion

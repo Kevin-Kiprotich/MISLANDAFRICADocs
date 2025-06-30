@@ -10,7 +10,7 @@ However, a ``guest`` mode is provided for those who wish to explore the app with
     :height: 500
     :align: center
 
-    *Figure 1: Splash Screen*
+    *Splash Screen*
 
 Guest mode
 --------------
@@ -31,7 +31,7 @@ or the QGIS plugin, use the same credentials to login.
     :height: 500
     :align: center
 
-    *Figure 2: Login*
+    *Login*
 
 Registration
 -------------
@@ -44,11 +44,11 @@ from where you can login and proceed to the dashboard.
     <div style="display: flex; gap: 8px; justify-content: center; align-items: center;">
         <div>
             <img src="../_static/mobile/signup.jpg" alt="Signup" style="height:500px">
-            <p style="text-align: center;"><em>Figure 3: Sign up</em></p>
+            <p style="text-align: center;"><em>Sign up</em></p>
         </div>
         <div>
             <img src="../_static/mobile/password.jpg" alt="Password screen" style="height:500px">
-            <p style="text-align: center;"><em>Figure 4: Password</em></p>
+            <p style="text-align: center;"><em>Password</em></p>
         </div>
     </div>
 
@@ -68,10 +68,10 @@ To retrieve your account, follow the following procedure.
     <div style="display: flex; gap: 8px; justify-content: center; align-items: center;">
         <div>
             <img src="../_static/mobile/login.jpg" alt="Login" style="height:500px">
-            <p style="text-align: center;"><em>Figure 5: Login</em></p>
+            <p style="text-align: center;"><em>Login</em></p>
         </div>
         <div>
             <img src="../_static/mobile/passwordReset.jpg" alt="Password reset" style="height:500px">
-            <p style="text-align: center;"><em>Figure 6: Password Reset</em></p>
+            <p style="text-align: center;"><em>Password Reset</em></p>
         </div>
     </div>

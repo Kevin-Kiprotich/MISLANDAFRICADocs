@@ -48,11 +48,11 @@ tutorials mode labelling all buttons with what they do.
     <div style="display: flex; gap: 8px; justify-content: center; align-items: center;">
         <div>
             <img src="../_static/mobile/dashboard.jpg" alt="Dashboard" style="height:500px">
-            <p style="text-align: center;"><em>Figure 7: Dashboard</em></p>
+            <p style="text-align: center;"><em>Dashboard</em></p>
         </div>
         <div>
             <img src="../_static/mobile/dashboardTutorial.jpg" alt="Dashboard Tutorial" style="height:500px">
-            <p style="text-align: center;"><em>Figure 8: Dashboard Tutorial</em></p>
+            <p style="text-align: center;"><em>Dashboard Tutorial</em></p>
         </div>
     </div>
 
@@ -66,11 +66,11 @@ and subregion.
     <div style="display: flex; gap: 8px; justify-content: center; align-items: center;">
         <div>
             <img src="../_static/mobile/aoiModal.jpg" alt="AOI dialog" style="height:500px">
-            <p style="text-align: center;"><em>Figure 9: AOI Dialog</em></p>
+            <p style="text-align: center;"><em>AOI Dialog</em></p>
         </div>
         <div>
             <img src="../_static/mobile/dashboardWithBoundary.jpg" alt="Area of Interest" style="height:500px">
-            <p style="text-align: center;"><em>Figure 10: Area of Interest</em></p>
+            <p style="text-align: center;"><em>Area of Interest</em></p>
         </div>
     </div>
 
@@ -87,7 +87,7 @@ To draw a custom area of interest, follow the procedure below.
     :height: 500
     :align: center
 
-    *Figure 11: Dashboard with custom AOI*
+    *Dashboard with custom AOI*
 
 .. admonition:: Note
 
@@ -104,7 +104,7 @@ To select a layer, click the ``Indicators`` button |layers| to open the indicato
     :height: 500
     :align: center
 
-    *Figure 12: Indicators Dialog*
+    *Indicators Dialog*
 
 .. admonition:: Note
 
@@ -119,7 +119,7 @@ To visualize statistics, click the ``Statistics`` button |statistics| to open th
     :height: 500
     :align: center
 
-    *Figure 13: Statistics dialog*
+    *Statistics dialog*
 
 .. admonition:: Note
 
