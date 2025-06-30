@@ -36,4 +36,19 @@ Forest Carbon
     *Forest carbon dialog*
 
 4. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/forestCarbonResult.jpg
+    :alt: Sample Forest Carbon Result
+    :height: 500
+    :align: center
+
+    *Sample Forest Carbon Result*
+
 5. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/forestCarbonStats.jpg
+    :alt: Sample Forest Carbon Statistics
+    :height: 500
+    :align: center
+
+    *Sample Forest Carbon statistics*

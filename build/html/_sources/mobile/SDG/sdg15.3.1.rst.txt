@@ -36,4 +36,19 @@ SDG 15.3.1
     *SDG 15.3.1 dialog*
 
 4. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/sdgResult.jpg
+    :alt: Sample SDG 15.3.1 Result
+    :height: 500
+    :align: center
+
+    *Sample SDG 15.3.1 Result*
+
 5. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/sdgStatistics.jpg
+    :alt: Sample SDG 15.3.1 Statistics
+    :height: 500
+    :align: center
+
+    *Sample SDG 15.3.1 Statistics*

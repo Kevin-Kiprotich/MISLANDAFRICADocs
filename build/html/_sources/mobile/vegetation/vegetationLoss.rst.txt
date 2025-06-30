@@ -27,4 +27,19 @@ Vegetation Loss/Gain
     *Vegetation Loss/Gain dialog*
 
 3. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/vegetationResult.jpg
+    :alt: Sample Vegetation Loss and Gain Result
+    :height: 500
+    :align: center
+
+    *Sample Vegetation Loss and Gain Result*
+
 4. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/vegetationStatistics.jpg
+    :alt: Sample Vegetation Loss and Gain Statistics
+    :height: 500
+    :align: center
+
+    *Sample Vegetation Loss and Gain Statistics*

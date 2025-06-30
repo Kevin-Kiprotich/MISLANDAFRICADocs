@@ -36,4 +36,19 @@ Forest Loss
     *Forest Loss dialog*
 
 4. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/forestLossResult.jpg
+    :alt: Sample Forest Loss Result
+    :height: 500
+    :align: center
+
+    *Sample Forest Loss Result*
+
 5. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/forestLossStats.jpg
+    :alt: Sample Forest Loss Statistics
+    :height: 500
+    :align: center
+
+    *Sample Forest Loss statistics*

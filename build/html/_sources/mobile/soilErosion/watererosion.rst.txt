@@ -36,4 +36,19 @@ Water Erosion
     *Water Erosion dialog*
 
 4. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/waterErosionResult.jpg
+    :alt: Sample Water Erosion Result
+    :height: 500
+    :align: center
+
+    *Sample Water Erosion Result*
+
 5. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/waterErosionStats.jpg
+    :alt: Sample Water Erosion Statistics
+    :height: 500
+    :align: center
+
+    *Sample Water Erosion statistics*

@@ -36,4 +36,19 @@ Wind Erosion
     *Wind Erosion dialog*
 
 4. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/windErosionResult.jpg
+    :alt: Sample Wind Erosion Result
+    :height: 500
+    :align: center
+
+    *Sample Wind Erosion Result*
+
 5. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/windErosionStats.jpg
+    :alt: Sample Wind Erosion Statistics
+    :height: 500
+    :align: center
+
+    *Sample wind Erosion statistics*

@@ -36,4 +36,19 @@ Carbon Stock
     *Carbon Stock dialog*
 
 4. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/carbonStockResult.jpg
+    :alt: Sample Carbon Stock Result
+    :height: 500
+    :align: center
+
+    *Sample Carbon Stock Result*
+
 5. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/carbonStockStats.jpg
+    :alt: Sample Carbon Stock Statistics
+    :height: 500
+    :align: center
+
+    *Sample Carbon stock statistics*

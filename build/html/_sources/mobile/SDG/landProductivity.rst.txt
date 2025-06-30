@@ -36,4 +36,19 @@ Land Productivity
     *Land Productivity dialog*
 
 4. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/landProductivityResult.jpg
+    :alt: Sample Land Productivity Result
+    :height: 500
+    :align: center
+
+    *Sample Land Productivity Result*
+
 5. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/landProductivityStats.jpg
+    :alt: Sample Land Productivity Statistics
+    :height: 500
+    :align: center
+
+    *Sample Land Productivity Statistics*

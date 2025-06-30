@@ -27,4 +27,19 @@ MEDALUS
     *MEDALUS dialog*
 
 3. Provide all the required details on the dialog and click ``submit``.
+
+.. figure:: ../../_static/mobile/desertificationResult.jpg
+    :alt: Sample Desertification Result
+    :height: 500
+    :align: center
+
+    *Sample Desertification Result*
+
 4. Visualize statistics on the dashboard by clicking the ``Statistics`` button |statistics|.
+
+.. figure:: ../../_static/mobile/desertificationStats.jpg
+    :alt: Sample Desertification Statistics
+    :height: 500
+    :align: center
+
+    *Sample Desertification Statistics*
